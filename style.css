@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+
+}
+
+span {
+    color: orange;
+}
+
+h3 {
+
+    color: orchid;
+}
+
+p {
+    color: lightgrey;
+
+}
+
+section {
+    height: 500px;
+}
+
+.head-section {
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+
+.about-me {
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+
+.about-me img {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.button-link {
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    color: white;
+}
+
+.middle-section {
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 30px;
+}
+
+.single-mingle {
+    box-shadow: 10px 10px 50px orange;
+    border-left: 2px solid tomato;
+    border-right: 2px solid tomato;
+    padding-left: 2px;
+    text-align: justify;
+}
+
+.about-you {
+    width: 30%;
+    margin-left: 2%;
+    float: left;
+    background-color: white;
+}
+
+.experience {
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+}
+
+footer p {
+    text-align: center;
+    color: black;
+} 
